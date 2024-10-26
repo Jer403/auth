@@ -11,4 +11,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencie
+  "dependencies": {
+    "express": "4.21.1"
+  }
+}
